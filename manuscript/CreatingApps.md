@@ -4,12 +4,14 @@ In this chapter we will walk through the process of creating a Steelmesh 2.0 app
 
 Firstly, let's create a new application directory as we would with any application:
 
-  mkdir testapp
-  cd testapp
+```
+mkdir testapp
+cd testapp
+```
 
 Next, let's create a `package.json` file using npm as we would a standard node package:
 
-  npm init
-
-
+```
+npm init
+```
 
